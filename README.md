@@ -5,7 +5,7 @@ I am making sure I understand the things I am learning. This is a site that allo
 
 Resource:
 
-https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper
+https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-counter
 
 Key concepts covered:
 
